@@ -1,6 +1,6 @@
 package exercises;
 
-import java.util.*;
+import java.util.Scanner;
 
 /**
  * Exercise 21 — Towers of Hanoi with Move Counting
